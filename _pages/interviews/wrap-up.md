@@ -56,23 +56,23 @@ Begin by introducing yourself by saying this or something similar to it:
 
 This interview is more broad — questions from all previous interviews are fair-game, and be sure to adjust the questions asked to follow-up on any areas the other interviewers have indicated.
 
-- “Tell me about yourself”
+- Tell me about yourself
 
-- ["What drew you to 18F?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
+- [What drew you to 18F?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
 
   - If possible, be prepared to notify the TTS Talent Team about how this candidate entered our candidate funnel should we extend an offer (this helps improve our outreach efforts).
 
-- ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+- [Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
 
-- ["Have you had a chance to participate in user-centered design and/or user research?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+- [Have you had a chance to participate in user-centered design and/or user research?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
 
-- ["Have you ever worked with a remote/distributed team before?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
+- [Have you ever worked with a remote/distributed team before?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
 
-- ["Please explain a complex technical concept or tool to me as if I were a non-technical partner"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
+- [Please explain a complex technical concept or tool to me as if I were a non-technical partner](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
 
-- "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity, equity, and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)"
+- At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity, equity, and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)
 
-- ["Is there anything that you feel we should have asked you relating to your personal or professional goals that we did not?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
+- [Is there anything that you feel we should have asked you relating to your personal or professional goals that we did not?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
 
 ### Conclusion
 
