@@ -61,22 +61,22 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["How would you design software to run elevators? Can you talk through a high-level design? How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* [How would you design software to run elevators? Can you talk through a high-level design? How would accommodating different building types change your design?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
-* ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
+* [Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
 ### Agile orientation
 
-* ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+* [Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
 
 
 ### Maintainable software development
 
 This probes for the ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure.
 
-* ["What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.iiceusfwxdz6)
+* [What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.iiceusfwxdz6)
 
-* ["Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8vmh70tr7j6b)
+* [Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8vmh70tr7j6b)
 
 ### Position-specific questions
 
@@ -99,15 +99,15 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </button>
     <div id="devops" class="usa-accordion-content">
       <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?”</a></li>
+        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?</a></li>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">“What does Continuous Integration mean to you? What about Continuous Deployment? Why are they important? When have you done them?”</a></li>
+        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">What does Continuous Integration mean to you? What about Continuous Deployment? Why are they important? When have you done them?</a></li>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ajllaso5g4ot">“You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?”</a></li>
+        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ajllaso5g4ot">You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?</a></li>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7yjx1psw8p0j">“Tell me about an infrastructure problem that you helped solve (for example: slow app performance, unexpected downtime; a security breach; etc). What was the problem, and how did you solve it?”</a></li>
+        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7yjx1psw8p0j">Tell me about an infrastructure problem that you helped solve (for example: slow app performance, unexpected downtime; a security breach; etc). What was the problem, and how did you solve it?</a></li>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">“Tell me about a time that you worked with a team to remediate a security issue.”</a></li>
+        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">Tell me about a time that you worked with a team to remediate a security issue.</a></li>
       </ul>
     </div>
   </li>
